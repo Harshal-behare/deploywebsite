@@ -28,9 +28,9 @@ const userSchema = yup.object().shape({
 
 // Dummy data for departments selection
 const departmentsOptions = [
-    { id: 1, name: "HR" },
-    { id: 2, name: "Finance" },
-    { id: 3, name: "Engineering" },
+    { id: 1, name: "Road Department" },
+    { id: 2, name: "Pipe-line Department" },
+    { id: 3, name: ""},
     { id: 4, name: "Marketing" },
 ];
 
