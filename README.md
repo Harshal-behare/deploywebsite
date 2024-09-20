@@ -3,7 +3,7 @@
 Admin Dashboard built with React.js and Material UI.
 
 Live link:
-[React Admin Dashboard](https://rinajabu.github.io/admin-dashboard/)
+[React Admin Dashboard](https://harshal-behare.github.io/deploywebsite/)
 
 ### Technologies Used
 
